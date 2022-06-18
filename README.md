@@ -1,6 +1,8 @@
 # maps
 
-A new Flutter project.
+aplikasi maps dengan flutter
+![maps](https://user-images.githubusercontent.com/101199461/174443868-3dc0e27b-fa20-4e56-8f1a-7d751ce32589.jpg)
+
 
 ## Getting Started
 
